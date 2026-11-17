@@ -1,2 +1,2 @@
-# jasa-edit-jj-ml
-jasa edit
+# teknik komputer dan jaringan
+tkj
